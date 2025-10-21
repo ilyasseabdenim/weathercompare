@@ -1,0 +1,5 @@
+{
+  "name": "Weather Rewind",
+  "description": "A tool to view today's weather and see historical weather data for any city over the last 20 years.",
+  "requestFramePermissions": []
+}
